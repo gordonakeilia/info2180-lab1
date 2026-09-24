@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>INFO2180 Lab 1</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header>
+<h1>INFO2180 Lab 1</h1>
+<p>Welcome to my personal webpage.</p>
+</header>
+<main>
+<h2>Akeilia Gordon</h2>
+<img src="image.jpg" alt="Illustration of a woman in computer science and STEM" width="300">
+<p>I am a computer science student who enjoys working with databases and problem-solving.</p>
+<p>I am interested in web development because it allows me to build interactive and functional applications for users.</p>
+</main>
+<footer>
+<p>Copyright 2026 Akeilia Gordon.</p>
+</footer>
+</body>
+</html>
